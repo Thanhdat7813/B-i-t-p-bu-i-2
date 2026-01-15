@@ -11,4 +11,4 @@
 
 ## Kết quả chạy
 
-![Screenshot_2026-01-15-12-20-38-129_host exp exponent 1](https://github.com/user-attachments/assets/24598689-9a26-45ac-9222-fe8f9f523993)
+![Screenshot_2026-01-15-12-20-38-129_host exp exponent 1](https://github.com/user-attachments/assets/3bff3485-72aa-46b7-912c-0d6d4be9da03)
