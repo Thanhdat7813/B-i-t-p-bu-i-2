@@ -1,4 +1,4 @@
-# Bai tap buoi 2
+# Bai-tap-buoi-2
 Ứng dụng demo giao diện đăng nhập trên mobile bằng số điện thoại
 
 ## Thông tin sinh viên
@@ -7,7 +7,7 @@
 - Lớp: D18CNPM4
 
 ## Mô tả
-Ứng dụng demo giao diện đăng nhập t bằng số điện thoại 
+Ứng dụng demo giao diện đăng nhập trên mobile bằng số điện thoại 
 
 ## Kết quả chạy
 
