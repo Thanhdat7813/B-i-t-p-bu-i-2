@@ -10,5 +10,4 @@
 Ứng dụng demo giao diện đăng nhập trên mobile bằng số điện thoại 
 
 ## Kết quả chạy
-
-![Screenshot_2026-01-15-12-20-38-129_host exp exponent 1](https://github.com/user-attachments/assets/3bff3485-72aa-46b7-912c-0d6d4be9da03)
+![Ảnh_demo_mobile 1](https://github.com/user-attachments/assets/6dd143d6-d99a-4db4-aa5e-71b35d7ebadf)
